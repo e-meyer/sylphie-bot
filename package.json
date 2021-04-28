@@ -1,0 +1,15 @@
+{
+  "name": "Sylphie",
+  "version": "1.0.0",
+  "description": "I'm creating this bot in order to improve my coding abilities. I'll update him whenever I have some time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sykoz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "yt-search": "^2.8.0"
+  }
+}
